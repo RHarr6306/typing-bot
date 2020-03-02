@@ -1,5 +1,6 @@
 # Typing Bot
 A Discord.js typing test bot for measuring typing speed through Discord.
+<br>
 ![](https://img.shields.io/badge/build-passing-green/?style=flat-square)
 ![](https://img.shields.io/github/repo-size/TheTypingMatch/typing-bot?style=flat-square)
 ![](https://img.shields.io/github/issues/TheTypingMatch/typing-bot?style=flat-square)
