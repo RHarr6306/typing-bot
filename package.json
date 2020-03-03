@@ -1,0 +1,24 @@
+{
+  "name": "typing-bot",
+  "version": "1.0.0",
+  "description": "![](https://img.shields.io/badge/build-passing-green/?style=flat-square)\r ![](https://img.shields.io/github/repo-size/TheTypingMatch/typing-bot?style=flat-square)\r ![](https://img.shields.io/github/issues/TheTypingMatch/typing-bot?style=flat-square)\r ![](https://img.shields.io/github/v/release/TheTypingMatch/typing-bot?include_prereleases&style=flat-square)\r <br>\r A Discord.js typing test bot for measuring typing speed through Discord.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheTypingMatch/typing-bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheTypingMatch/typing-bot/issues"
+  },
+  "homepage": "https://github.com/TheTypingMatch/typing-bot#readme",
+  "dependencies": {
+    "discord.js": "^12.0.1",
+    "dotenv": "^8.2.0",
+    "fs": "0.0.1-security"
+  }
+}
